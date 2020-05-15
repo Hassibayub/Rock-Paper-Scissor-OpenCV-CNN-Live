@@ -25,5 +25,4 @@ For the purpose of the of demonstration. `./images` foder has been added. along 
 - Python (3.6 or higher)
 - Numpy (1.13.3 or higher)
 - TensorFlow (1.8 or higher)
-- Either one of the following:
-- - OpenCV (3.2.0 or higher)
+- OpenCV (3.2.0 or higher)
